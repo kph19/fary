@@ -1,10 +1,10 @@
 {
   "ios" : {
     "version" : 0,
-    "link" : "www.google.com",
+    "link" : "www.google.com"
   },
    "android" : {
     "version" : 0,
-    "link" : "www.google.com",
-  },
+    "link" : "www.google.com"
+  }
 }
