@@ -1,0 +1,22 @@
+{
+   "user":{
+      "ios":{
+         "version":0,
+         "link":""
+      },
+      "android":{
+         "version":0,
+         "link":""
+      }
+   },
+   "driver":{
+      "ios":{
+         "version":0,
+         "link":""
+      },
+      "android":{
+         "version":0,
+         "link":""
+      }
+   }
+}
